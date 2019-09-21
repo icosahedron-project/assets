@@ -17,9 +17,13 @@ const SkillSchema = new mongoose.Schema({
         type: String,
         required: false
     },
-    damageDiceId:{
-        type: String,
-        required:false
+    damageDiceAmount: {
+        type: Number,
+        required: false
+    },
+    damageDiceRoll: {
+        type: Number,
+        required: false
     }
 });
 

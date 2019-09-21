@@ -17,12 +17,12 @@ const ItemSchema = new mongoose.Schema({
         type: String,
         required: false
     },
-    ownerDiceId: {
-        type: String,
+    damageDiceAmount: {
+        type: Number,
         required: false
     },
-    damageDiceId: {
-        type: String,
+    damageDiceRoll: {
+        type: Number,
         required: false
     }
 });

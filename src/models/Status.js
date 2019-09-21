@@ -9,13 +9,25 @@ const StatusSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    damageDiceId: {
+    damageDiceAmount: {
+        type: Number,
+        required: false
+    },
+    damageDiceRoll: {
+        type: Number,
+        required: false
+    },
+    rounds:{
         type: String,
         required: false
     },
-    turns:{
-        type: String,
-        required: false
+    attributesModified: {
+        type: [String],
+        required: true
+    },
+    attributesModifiers: {
+        type: Number,
+        required: true
     }
 });
 

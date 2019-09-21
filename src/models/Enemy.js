@@ -6,32 +6,8 @@ const CharacterSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    playerId: {
-        type: String,
-        required: true
-    },
-    class: {
-        type: String,
-        required: true
-    },
     race: {
         type: String,
-        required: true
-    },
-    alignment: {
-        type: String,
-        required: true
-    },
-    background: {
-        type: String,
-        required: false
-    },
-    level: {
-        type: Number,
-        required: true
-    },
-    xp: {
-        type: Number,
         required: true
     },
     
@@ -103,4 +79,4 @@ const CharacterSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model("Characters", CharacterSchema);
+mongoose.model("Enemies", CharacterSchema);
