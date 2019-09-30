@@ -27,4 +27,4 @@ const ItemSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model("Items", ItemsSchema);
+mongoose.model("Items", ItemSchema);

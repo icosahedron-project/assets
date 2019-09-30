@@ -3,7 +3,7 @@ const express = require("express");
 const routes = express.Router();
 
 // Importando o UserController
-const ProductController = require("./controllers/UserController");
+const UserController = require("./controllers/UserController");
 
 // Importando o auth.js
 const authMidleware = require("./middlewares/auth");
