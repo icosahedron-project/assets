@@ -27,4 +27,4 @@ const SkillSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model("Skills", SkillSchema);
+mongoose.model("Skill", SkillSchema);

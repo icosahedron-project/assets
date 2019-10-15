@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const CharacterSchema = new mongoose.Schema({
+const EnemySchema = new mongoose.Schema({
     // Header
     name: {
         type: String,
@@ -79,4 +79,4 @@ const CharacterSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model("Enemies", CharacterSchema);
+mongoose.model("Enemy", EnemySchema);
