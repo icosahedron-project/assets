@@ -19,4 +19,4 @@ const TableSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model("Tables", TableSchema);
+mongoose.model("Table", TableSchema);

@@ -17,7 +17,7 @@ mongoose.connect("mongodb://localhost:27017/icosahedron-core",
 requireDir("./src/models");
 
 // Prefixo e Importando routes.js
-app.use("/service/rest", require("./src/routes"));
+app.use("/api", require("./src/routes"));
 
 // Definindo Porta localhost
 app.listen(3001);

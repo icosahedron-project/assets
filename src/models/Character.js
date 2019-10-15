@@ -103,4 +103,4 @@ const CharacterSchema = new mongoose.Schema({
     }
 });
 
-mongoose.model("Characters", CharacterSchema);
+mongoose.model("Character", CharacterSchema);
