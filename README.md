@@ -27,7 +27,8 @@ This project is ready to deploy.
 Make a pull request and make clear what changes have been made and which bugs persist. Do not introduce bugs, be proactive!
 
 ## Contributors
-* **Amintas Victor** - *Initial work* - [GitHub](https://github.com/amintasvrp)
+* **Amintas Victor** - *Initial work* - [@amintasvrp](https://github.com/amintasvrp)
+* **Stephy** - *Logo and Font Style* - [@blindingstars](https://github.com/blindingstars)
 
  If you contributed with this project, your name will be placed here. Welcome to the hall of fame :)
 
