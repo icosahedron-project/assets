@@ -28,7 +28,8 @@ Make a pull request and make clear what changes have been made and which bugs pe
 
 ## Contributors
 * **Amintas Victor** - *Initial work* - [@amintasvrp](https://github.com/amintasvrp)
-* **Stephy** - *Logo and Font Style* - [@blindingstars](https://github.com/blindingstars)
+* **Stephy** - *Brand* - [@blindingstars](https://github.com/blindingstars) </br>
+Check out the [*Style Guide*](https://styleguides.northxsouth.co/brand/icosahedron#logos)
 
  If you contributed with this project, your name will be placed here. Welcome to the hall of fame :)
 
