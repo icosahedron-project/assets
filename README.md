@@ -9,5 +9,5 @@ Repositório reservado aos assets utilizados nos demais repositórios do Icosahe
 ### Contribuindo
 Faça um pull request e deixe claro quais alterações foram feitas.
 
-### Conhecimentos Desejáveis
+### Conhecimentos desejáveis
 * Básico de Design Gráfico
