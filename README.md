@@ -1,39 +1,13 @@
-# Icosahedron Project: Core
-The Icosahedron Project consists of an RPG Tabletop manager. Here is the REST API developed in Node.JS.
+<h1 align="center">
+  <img width=60 height=67.21 src="icons/logo-icon.png" />
+  
+  Assets 
+</h1>
 
-## Getting Started
-1. Clone the repository and install depencencies:
-```bash
-npm install
-```
-2. Run the application on a local port:
-```bash
-npm run dev
-```
+Repositório reservado aos assets utilizados nos demais repositórios do Icosahedron Project.
 
-### Prerequisites
-Have NodeJS installed on the machine.
+### Contribuindo
+Faça um pull request e deixe claro quais alterações foram feitas.
 
-## Running the tests
-Use clients (front-end) for testing, such as [Postman](https://www.getpostman.com/) or [Insomnia](https://insomnia.rest/).
-
-## Deployment
-This project is ready to deploy.
-
-## Built With
-* [NodeJS](https://nodejs.org/en/) - The web framework used
-
-## Contributing
-Make a pull request and make clear what changes have been made and which bugs persist. Do not introduce bugs, be proactive!
-
-## Contributors
-* **Amintas Victor** - *Initial work* - [@amintasvrp](https://github.com/amintasvrp)
-* **Stephy** - *Brand* - [@blindingstars](https://github.com/blindingstars) </br>
-Check out the [*Style Guide*](https://styleguides.northxsouth.co/brand/icosahedron#logos)
-
- If you contributed with this project, your name will be placed here. Welcome to the hall of fame :)
-
-## Acknowledgments
-* JavaScript and ECMAScript 6
-* Knowledge about NodeJS
-* Willingness to learn, research and develop (no laziness!)
+## Requisitos
+* Conhecimento básico de design gráfico
