@@ -8,3 +8,6 @@ Repositório reservado aos assets utilizados nos demais repositórios do Icosahe
 
 ### Contribuindo
 Faça um pull request e deixe claro quais alterações foram feitas.
+
+### Licenses
+* **MIT License** - [*Ver detalhes*](./LICENSE.txt)
